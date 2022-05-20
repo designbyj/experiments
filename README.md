@@ -1,2 +1,2 @@
-# experiments
-My experiments in development
+# SquaRG game
+Моя интерпретация игры крестики-нолики, вместо крестиков с ноликами красные и зеленые секторы
