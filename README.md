@@ -1,2 +1,2 @@
 # SquaRG game
-Моя интерпретация игры крестики-нолики, вместо крестиков с ноликами красные и зеленые секторы с механикой оригинала
+My interpretation of the game tic-tac-toe, instead of tic-tac-toe, red and green sectors with the mechanics of the original
